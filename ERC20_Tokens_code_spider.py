@@ -1,5 +1,5 @@
 # coding = utf8
-# author Panghu.Xiao
+# author Panghu.Xiao 
 import requests
 from datetime import datetime
 from pyquery import PyQuery as pq
