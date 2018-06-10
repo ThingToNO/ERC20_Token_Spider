@@ -2,7 +2,7 @@
 ## Spider ERC20 Token Source Code From  Etherscan.io Verify Code
 
 ### Usage:
-`python3 erc20_token_spider.py`
+`python3 ERC20_token_spider.py`
 
 
 ```
